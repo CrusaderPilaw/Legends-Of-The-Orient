@@ -5,7 +5,7 @@ Before installing the pack you should set up a copy of your current crusader ins
 
 Installation:
 
-1. Download the "Legends Of The East" modification.
+1. Download the "Legends Of The Orient" modification.
 
 2. After that you'll need to make sure that you have the newest version of the Unofficial Stronghold Crusader Patch (version 2.15a) installed. You will find it in the main folder. Newest version can always be downloaded here: https://github.com/UnofficialCrusaderPatch/UnofficialCrusaderPatch/releases
 --> Start the patcher, click "Continue" and check in the tabs "AIV", "AIC" and "troops" the corresponding files. (Every file with "Legenden_Des_Ostens" in the front.) Press "Install".
